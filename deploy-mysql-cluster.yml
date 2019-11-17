@@ -3,8 +3,8 @@
   become: true
   become_method: sudo
   vars:
-    mysql_cluster_name: demo_mysql_cluster
-    mysql_root_password: "your_mysql_root_password"
+    mysql_cluster_name: mysql_cluster
+    mysql_root_password: "Sctc@Admin001"
 
   tasks:
 
